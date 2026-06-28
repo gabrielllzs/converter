@@ -3,3 +3,5 @@ dist
 FileConverter.spec
 src/__pycache__
 *.spec
+*.iss
+*.exe
