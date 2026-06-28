@@ -6,7 +6,7 @@ import webbrowser
 from interface import AppInterface 
 
 VERSION = "1.0.0"
-VERSION_URL = "https://raw.githubusercontent.com/USER/REPO/main/version.json"
+VERSION_URL = "https://raw.githubusercontent.com/gabrielllzs/converter/refs/heads/main/version.json"
 
 def check_for_updates():
     try:
