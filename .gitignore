@@ -1,0 +1,5 @@
+build
+dist
+FileConverter.spec
+src/__pycache__
+*.spec

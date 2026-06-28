@@ -1,0 +1,6 @@
+customtkinter
+pymupdf
+python-docx
+docx2pdf
+requests
+Pillow
